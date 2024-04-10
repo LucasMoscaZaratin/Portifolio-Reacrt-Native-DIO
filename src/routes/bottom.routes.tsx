@@ -1,7 +1,7 @@
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import {MaterialCommunityIcons, Foundation} from '@expo/vector-icons'
-import { MainScreen } from '../screens/mainScreen'
-import { SkillScreen } from '../screens/skillScreen'
+import { MainScreen } from '../screens/Main/MainScreen'
+import { SkillScreen } from '../screens/Skills/SkillScreen'
 
 const { Navigator, Screen } = createBottomTabNavigator()
 

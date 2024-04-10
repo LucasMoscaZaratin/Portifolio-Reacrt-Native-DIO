@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, Pressable, Image, Linking } from 'react-native';
 import  lucas  from '../../assets/pictures/lucas.png'
 
-import { styles } from './stylemainScreen';
+import { styles } from './SyleMainScreen';
 
 export function MainScreen() {
   return (
